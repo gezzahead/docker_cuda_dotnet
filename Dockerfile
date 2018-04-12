@@ -67,9 +67,3 @@ RUN mkdir warmup \
     && cd .. \
 
     && rm -rf warmup
-
-Disclaimer
-
-This e-mail message and any attachments (“message”) may contain confidential, privileged or proprietary information and is intended solely for the use of the named recipient(s). If you are not the intended recipient, you may not disclose, copy, distribute or retain any part of this message. If you have received this message in error, please inform the sender immediately by return e-mail and delete this message from your system. The BIS is not liable for any error in the content of this message and does not represent that it is uncorrupted and/or free of viruses. Views expressed in this message are those of the author and may not reflect those of the BIS.
-
- 
