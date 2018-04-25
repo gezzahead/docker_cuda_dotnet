@@ -1,6 +1,6 @@
 FROM nvidia/cuda:9.1-runtime-centos7
 
-RUN yum install \
+RUN yum -y install \
     libunwind \
     lttng-ust \
     libcurl \
